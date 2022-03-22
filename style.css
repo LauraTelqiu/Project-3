@@ -1,0 +1,30 @@
+h1 {
+  text-align: center;
+  font-family: cursive;
+}
+.contanier {
+  border: solid black 1px;
+}
+
+.navbar {
+  display: flex;
+  justify-content: space-evenly;
+  border: solid black;
+  background-color: #545254;
+}
+.tag {
+  padding: 10px;
+}
+.text-box {
+  border: solid black;
+  height: 500px;
+  padding: 50px;
+  text-align: center;
+}
+
+img {
+  text-align: center;
+  padding: 10px;
+  height: 400px;
+  text-align: center;
+}
